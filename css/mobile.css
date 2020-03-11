@@ -1,0 +1,17 @@
+@media (max-width: 650px){
+
+    .main__section{
+        padding: 5%;
+    }
+
+    .products{
+        display: block;
+        height: auto;
+        padding: 5%;
+    }
+
+    .product{
+        margin-top: auto;
+    }
+
+}
